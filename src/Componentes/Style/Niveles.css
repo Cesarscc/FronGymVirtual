@@ -1,0 +1,62 @@
+.niveles{
+    
+    margin-top:1px;
+}
+
+.nombre_nivel{
+    color: white;
+    margin: 5px;
+    margin-top: 20px;
+}
+
+.basico{
+    background-color: #1c1c1c;
+    border: 1px solid #FBD348;
+    font-size:40px;
+    border-radius: 20px;
+    color: #fff;
+    margin: 60px;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.intermedio{
+    background-color: #1c1c1c;
+    border: 1px solid #FC683A;
+    font-size:40px;
+    border-radius: 20px;
+    color: #fff;
+    margin: 60px;
+    padding: 5px;
+}
+
+.avanzado{
+    background-color: #1c1c1c;
+    border: 1px solid #EB4343;
+    font-size:40px;
+    border-radius: 20px;
+    color: #fff;
+    margin: 60px;
+    padding: 5px;
+}
+
+.personalizado{
+    background-color: #1c1c1c;
+    border: 1px solid #0077E4;
+    font-size:40px;
+    border-radius: 20px;
+    color: #fff;
+    margin: 60px;
+    padding: 5px;
+}
+
+.aaaa{
+    display: flex;
+    margin-right: 35px;
+    margin-top: 10px;
+}
+
+.aaaaa{
+    margin-top:0px;
+    font-size: 50px;
+}

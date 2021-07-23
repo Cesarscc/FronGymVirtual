@@ -1,0 +1,35 @@
+.site-calendar-demo-card {
+    width: 96%;
+    height: 70%;
+    /*border: 1px solid #f0f0f0;*/
+    border-radius: 10px;
+    margin-left: 2%;
+}
+.titulo2{
+    font-size: 30px;
+    color: white;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+/*calendario*/
+
+.logros{
+    height: auto;
+    background-color: #FBD348;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 50px;
+    padding: 5px;
+}
+.exer{
+    height: auto;
+    background-color: #ffffff;
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px;
+    padding-top: 10px;
+}
+.content-flex {
+    display: flex;
+    justify-content: space-evenly;
+}

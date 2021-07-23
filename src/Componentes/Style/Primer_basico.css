@@ -1,0 +1,29 @@
+.primero{
+    color: #fff;
+}
+
+.boto{
+    margin-top: 25px;
+    color: #fff;
+    background-color: #1c1c1c;
+    border: none;
+}
+
+.cronometro{
+    background-color:#fff;
+    color: #1c1c1c;
+    font-size: 40px;
+    border-radius: 20px;
+    justify-content: space-around;
+}
+
+.cancelar{
+    margin-left: 50%;
+    color:red;
+    background-color:#1c1c1c;
+    border: none;
+}
+
+.premio{
+    color:white;
+}

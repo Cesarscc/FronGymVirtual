@@ -1,0 +1,47 @@
+
+  .titulo-bienvenido{
+    margin-top: 40px;
+    width: 90%;
+  }
+  
+  .fondo{
+    width: 90%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+  
+  .welcome{
+    font-size: 30px;
+    color: white;
+  }
+  
+  .App p{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 18px;
+    color: white;
+  }
+  
+  .btn-micro{
+    background-color: #1c1c1c;
+    border: none;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .btnes{
+    background-color: #1c1c1c;
+    height: 70px;
+    text-align: center;
+    font-size: 40px;
+    color: White;
+    padding-left: 20px;
+    padding-right: 20px;
+    border:solid #FBD348 ;
+    
+  }
+
+  .wtf{
+    
+  }
